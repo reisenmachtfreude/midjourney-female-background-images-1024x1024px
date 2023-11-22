@@ -1,5 +1,5 @@
 # midjourney-female-background-images-1024x1024px
-AI generated images to use in social media as eye catching backgrounds to use in TikTok, Instagram, Youtube Shorts. Dimensions are 1024x1024. Copyright should not be an issue.
+AI generated images to use in social media as eye catching backgrounds to use on TikTok, Instagram, Youtube Shorts. Dimensions are 1024x1024. Copyright should not be an issue.
 
 Examples:
 <div>
