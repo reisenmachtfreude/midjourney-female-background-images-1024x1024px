@@ -10,3 +10,12 @@ clearly visible despite the dark background. She could potentially be depicted a
 person or a cybernetic entity, symbolizing the power and potential of learning programming.
 This background will be used as a motivational and empowering visual aid in a programming course.
 ```
+Examples:
+
+
+<div>
+  <a href="./black1.png" target="_blank"><img src="./black1.png" alt="Example 1" width="200"/></a>
+  <a href="./leather1.png" target="_blank"><img src="./leather1.png" alt="Example 2" width="200"/></a>
+  <a href="./leather34.png" target="_blank"><img src="./leather34.png" alt="Example 3" width="200"/></a>
+  <a href="./red4.png" target="_blank"><img src="./red4.png" alt="Example 4" width="200"/></a>
+</div>
